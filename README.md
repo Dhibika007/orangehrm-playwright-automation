@@ -115,4 +115,4 @@ Authentication is handled through a dedicated setup project:
 
 ## Author
 
-Dhipika
+Dhibika Gopi
